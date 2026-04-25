@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chetan%20Mundhe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Sr.%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Architect&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- Animated Header Banner - Teal to Purple gradient matching original -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7b8c,40:1a4a9e,70:5b2d8e,100:7b2ff7&height=200&section=header&text=Chetan%20Mundhe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Sr.%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Architect&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- Profile Badges -->
+<!-- Profile Badges - flat style like original screenshot -->
 <p>
   <img src="https://img.shields.io/badge/Profile%20Views-2K%2B-0e75b6?style=flat&logo=github" alt="Profile Views" />
   &nbsp;
@@ -56,36 +56,36 @@ me.say_hi()
 ## 🛠️ Tech Stack & Skills
 
 ### 🤖 AI / ML / Generative AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00BFA5?style=for-the-badge&logo=probot&logoColor=white)
-![Multi-Model Agentic AI](https://img.shields.io/badge/Multi--Model%20Agentic%20AI-FF6D00?style=for-the-badge&logo=probot&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-FF4081?style=for-the-badge&logo=pinecone&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7B2FBE?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00BFA5?style=flat-square&logo=probot&logoColor=white)
+![Multi-Model Agentic AI](https://img.shields.io/badge/Multi--Model%20Agentic%20AI-FF6D00?style=flat-square&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-FF4081?style=flat-square&logo=pinecone&logoColor=white)
 
 ### ☁️ Cloud & Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ### ⚙️ MLOps & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -110,21 +110,18 @@ me.say_hi()
 
 ## ✍️ Featured Medium Articles
 
-<!-- Article 1 -->
 > 🔧 **[How I'm Using n8n to Automate the Boring Parts of Data Science (And You Probably Should Too)](https://medium.com/@chetanmundhe2911/how-im-using-n8n-to-automate-the-boring-parts-of-data-science-and-you-probably-should-too-50a4095c272b)**
 >
 > A practical guide on leveraging n8n for automating repetitive data science workflows — from data ingestion to notifications.
 
 ---
 
-<!-- Article 2 -->
 > 🚀 **[From Data to Deployment: Building End-to-End Machine Learning Pipelines](https://medium.com/@chetanmundhe2911/from-data-to-deployment-building-end-to-end-machine-learning-pipelines-029dc2e037a1)**
 >
 > A comprehensive walkthrough of building production-ready ML pipelines — from raw data to deployed models.
 
 ---
 
-<!-- Article 3 -->
 > 📊 **[Bridging the Gap Between Data Science & Business: Communicating Insights Effectively](https://medium.com/@chetanmundhe2911/bridging-the-gap-between-data-science-business-communicating-insights-effectively-a88ec0aa246e)**
 >
 > How to translate complex ML/AI findings into clear, actionable business narratives that stakeholders actually understand.
@@ -185,6 +182,6 @@ me.say_hi()
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,30:5b2d8e,60:1a4a9e,100:0a7b8c&height=120&section=footer" />
 
 </div>
