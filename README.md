@@ -5,18 +5,18 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LangGraph+%7C+GenAI+Expert;Turning+Messy+Data+into+Clean+Insights+%E2%9C%A8;Sr.+Data+Scientist+%7C+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LangGraph+%7C+GenAI+Expert;Turning+Messy+Data+into+Clean+Insights+%E2%9C%A8;Sr.+Data+Scientist+%7C+ML+Engineer" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=chetanmundhe2911&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-2K%2B-0e75b6?style=flat&logo=github" alt="Profile Views" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/chetanmundhe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chetan-mundhe-569518115/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://medium.com/@chetanmundhe"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@chetanmundhe2911"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
   &nbsp;
   <a href="https://chetanmundhe.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -26,6 +26,8 @@
 ---
 
 ## 🧠 About Me
+
+> 💡 *This section is written as a Python class — a fun, developer-friendly way to introduce myself!*
 
 ```python
 class DataScientist:
@@ -75,7 +77,7 @@ me.say_hi()
 ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ MLOps & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -103,6 +105,33 @@ me.say_hi()
 |--------|-------------|------------|
 | [🎥 shoplifting_detection](https://github.com/chetanmundhe2911/shoplifting_detection) | Real-time shoplifting detection system using computer vision | PyTorch · YOLO · OpenCV |
 | [🔍 fraud-ring-detection-proto](https://github.com/chetanmundhe2911/fraud-ring-detection-proto) | Fraud ring detection prototype using graph-based analytics | Python · Graph AI · ML |
+
+---
+
+## ✍️ Featured Medium Articles
+
+<!-- Article 1 -->
+> 🔧 **[How I'm Using n8n to Automate the Boring Parts of Data Science (And You Probably Should Too)](https://medium.com/@chetanmundhe2911/how-im-using-n8n-to-automate-the-boring-parts-of-data-science-and-you-probably-should-too-50a4095c272b)**
+>
+> A practical guide on leveraging n8n for automating repetitive data science workflows — from data ingestion to notifications.
+
+---
+
+<!-- Article 2 -->
+> 🚀 **[From Data to Deployment: Building End-to-End Machine Learning Pipelines](https://medium.com/@chetanmundhe2911/from-data-to-deployment-building-end-to-end-machine-learning-pipelines-029dc2e037a1)**
+>
+> A comprehensive walkthrough of building production-ready ML pipelines — from raw data to deployed models.
+
+---
+
+<!-- Article 3 -->
+> 📊 **[Bridging the Gap Between Data Science & Business: Communicating Insights Effectively](https://medium.com/@chetanmundhe2911/bridging-the-gap-between-data-science-business-communicating-insights-effectively-a88ec0aa246e)**
+>
+> How to translate complex ML/AI findings into clear, actionable business narratives that stakeholders actually understand.
+
+---
+
+📖 **[Read all articles on Medium →](https://medium.com/@chetanmundhe2911)**
 
 ---
 
@@ -142,7 +171,7 @@ me.say_hi()
 
 ### 💬 Let's Connect & Build Something Amazing!
 
-<a href="https://www.linkedin.com/in/chetanmundhe/">
+<a href="https://www.linkedin.com/in/chetan-mundhe-569518115/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 &nbsp;
@@ -150,7 +179,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://medium.com/@chetanmundhe">
+<a href="https://medium.com/@chetanmundhe2911">
   <img src="https://img.shields.io/badge/Medium-Read%20Blog-12100E?style=for-the-badge&logo=medium" />
 </a>
 
